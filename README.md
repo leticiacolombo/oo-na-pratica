@@ -1,10 +1,10 @@
-# Orientação a Objetos aplicada na prática
+# Orientação a Objetos na prática com PHP
 
-Este repositório tem como finalidade apresentar os principais conceitos de Orientação a Objetos na prática, usando PHP, suponho que ao chegar aqui você já saiba algoritmos e lógica de programação.
+Este repositório tem como finalidade apresentar os principais conceitos de Orientação a Objetos na prática, usando PHP, suponho que ao chegar aqui você já uma base sobre algoritmos e lógica de programação.
 
 # Índice
 
-- Introdução
+- [Introdução](docs/introducao.md)
 - Encapsulamento
 - Herança
 - Polimorfismo
